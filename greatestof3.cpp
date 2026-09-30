@@ -16,7 +16,7 @@ int main()
     }
     else if (b > a && b > c)
     {
-        cout << "The second number is greatest among three."<<;
+        cout << "The second number is greatest among three.";
     }
     else
     {
